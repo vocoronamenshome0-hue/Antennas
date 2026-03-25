@@ -29,3 +29,4 @@ jobs:
           fetch-depth: 1
       - name: Validate files
         uses: DasSkelett/AVC-VersionFileValidator@master
+debugger 
